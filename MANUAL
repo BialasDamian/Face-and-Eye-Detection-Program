@@ -1,0 +1,17 @@
+Detect faces and eyes in real-time using OpenCV. This Python program captures video from your camera, applies face detection, 
+blurs faces, and identifies eyes within detected faces. Enhance your computer vision skills today!
+
+Instructions:
+
+1. Install necessary libraries:
+      Make sure you have OpenCV installed: pip install opencv-python.
+      Install PyAutoGUI if not already installed: pip install pyautogui.
+
+2. Download the Haar cascades XML files for face and eye detection:
+      haarcascade_frontalface_default.xml
+      haarcascade_eye.xml
+      Place these files in a directory named Haar_classcades in the same folder as your Python script.
+
+3. Execute the Python script.
+  Note:
+      Press Esc to exit the program.
